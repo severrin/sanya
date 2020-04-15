@@ -1,0 +1,1615 @@
+﻿Log file open, 03/02/20 10:27:09
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Sanya
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.856274
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz, GPU: NVIDIA GeForce GTX 1060 3GB
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: D:/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.03.02-07.27.13:941][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.03.02-07.27.13:941][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.03.02-07.27.13:941][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [F:/!!!САНЁК/!UNREAL/!SANYA/Saved/Config/Windows/Engine.ini]
+[2020.03.02-07.27.13:941][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.03.02-07.27.13:941][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2020.03.02-07.27.13:941][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2020.03.02-07.27.13:941][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2020.03.02-07.27.13:941][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2020.03.02-07.27.13:941][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
+[2020.03.02-07.27.13:941][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:0]]
+[2020.03.02-07.27.13:941][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2020.03.02-07.27.13:941][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2020.03.02-07.27.13:941][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2020.03.02-07.27.13:941][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2020.03.02-07.27.13:941][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2020.03.02-07.27.13:941][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2020.03.02-07.27.13:941][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2020.03.02-07.27.13:941][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2020.03.02-07.27.13:941][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2020.03.02-07.27.13:942][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2020.03.02-07.27.13:942][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2020.03.02-07.27.13:942][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2020.03.02-07.27.13:942][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2020.03.02-07.27.13:942][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2020.03.02-07.27.13:942][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2020.03.02-07.27.13:942][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2020.03.02-07.27.13:942][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2020.03.02-07.27.13:942][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2020.03.02-07.27.13:942][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2020.03.02-07.27.13:942][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2020.03.02-07.27.13:942][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2020.03.02-07.27.13:942][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2020.03.02-07.27.13:942][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:1]]
+[2020.03.02-07.27.13:942][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2020.03.02-07.27.13:942][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2020.03.02-07.27.13:942][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2020.03.02-07.27.13:942][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2020.03.02-07.27.13:942][  0]LogConfig: Setting CVar [[r.DOF.Algorithm:1]]
+[2020.03.02-07.27.13:942][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2020.03.02-07.27.13:942][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:1]]
+[2020.03.02-07.27.13:942][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2020.03.02-07.27.13:942][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2020.03.02-07.27.13:942][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2020.03.02-07.27.13:942][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2020.03.02-07.27.13:942][  0]LogConfig: Setting CVar [[r.UsePreExposure:0]]
+[2020.03.02-07.27.13:942][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2020.03.02-07.27.13:942][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2020.03.02-07.27.13:942][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2020.03.02-07.27.13:942][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2020.03.02-07.27.13:942][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2020.03.02-07.27.13:942][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2020.03.02-07.27.13:942][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2020.03.02-07.27.13:942][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2020.03.02-07.27.13:942][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2020.03.02-07.27.13:942][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2020.03.02-07.27.13:942][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2020.03.02-07.27.13:942][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2020.03.02-07.27.13:942][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2020.03.02-07.27.13:942][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2020.03.02-07.27.13:942][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2020.03.02-07.27.13:942][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2020.03.02-07.27.13:942][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2020.03.02-07.27.13:942][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2020.03.02-07.27.13:942][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2020.03.02-07.27.13:942][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2020.03.02-07.27.13:942][  0]LogConfig: Setting CVar [[vr.MultiView:0]]
+[2020.03.02-07.27.13:942][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2020.03.02-07.27.13:942][  0]LogConfig: Setting CVar [[vr.MobileMultiView.Direct:0]]
+[2020.03.02-07.27.13:942][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2020.03.02-07.27.13:942][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2020.03.02-07.27.13:942][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2020.03.02-07.27.13:942][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2020.03.02-07.27.13:942][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2020.03.02-07.27.13:942][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2020.03.02-07.27.13:942][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2020.03.02-07.27.13:942][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2020.03.02-07.27.13:942][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2020.03.02-07.27.13:942][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2020.03.02-07.27.13:942][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2020.03.02-07.27.13:942][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2020.03.02-07.27.13:942][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2020.03.02-07.27.13:942][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2020.03.02-07.27.13:942][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2020.03.02-07.27.13:942][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+[2020.03.02-07.27.13:942][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2020.03.02-07.27.13:942][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2020.03.02-07.27.13:942][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2020.03.02-07.27.13:942][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2020.03.02-07.27.13:942][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
+[2020.03.02-07.27.13:942][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [F:/!!!САНЁК/!UNREAL/!SANYA/Saved/Config/Windows/Engine.ini]
+[2020.03.02-07.27.13:942][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [F:/!!!САНЁК/!UNREAL/!SANYA/Saved/Config/Windows/Engine.ini]
+[2020.03.02-07.27.13:942][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.03.02-07.27.13:942][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.03.02-07.27.13:942][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.03.02-07.27.13:942][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.03.02-07.27.13:942][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.03.02-07.27.13:942][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.03.02-07.27.13:942][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.03.02-07.27.13:942][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.03.02-07.27.13:942][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.03.02-07.27.13:942][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.03.02-07.27.13:942][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.03.02-07.27.13:942][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.03.02-07.27.13:942][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.03.02-07.27.13:942][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [F:/!!!САНЁК/!UNREAL/!SANYA/Saved/Config/Windows/Engine.ini]
+[2020.03.02-07.27.13:942][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.03.02-07.27.13:942][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.03.02-07.27.13:942][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.03.02-07.27.13:942][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.03.02-07.27.13:942][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.03.02-07.27.13:943][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.03.02-07.27.13:943][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.03.02-07.27.13:943][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.03.02-07.27.13:943][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.03.02-07.27.13:943][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.03.02-07.27.13:943][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.03.02-07.27.13:943][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.03.02-07.27.13:943][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.03.02-07.27.13:943][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [F:/!!!САНЁК/!UNREAL/!SANYA/Saved/Config/Windows/Engine.ini]
+[2020.03.02-07.27.13:943][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [F:/!!!САНЁК/!UNREAL/!SANYA/Saved/Config/Windows/Engine.ini]
+[2020.03.02-07.27.13:945][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/!!!САНЁК/!UNREAL/!SANYA/Saved/Config/Windows/Scalability.ini]
+[2020.03.02-07.27.13:945][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.02-07.27.13:945][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.02-07.27.13:945][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/!!!САНЁК/!UNREAL/!SANYA/Saved/Config/Windows/Scalability.ini]
+[2020.03.02-07.27.13:945][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.03.02-07.27.13:945][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/!!!САНЁК/!UNREAL/!SANYA/Saved/Config/Windows/Scalability.ini]
+[2020.03.02-07.27.13:945][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.02-07.27.13:945][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.02-07.27.13:945][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.02-07.27.13:945][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.02-07.27.13:945][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.02-07.27.13:945][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.02-07.27.13:945][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.02-07.27.13:945][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.02-07.27.13:945][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.02-07.27.13:945][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.02-07.27.13:945][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.02-07.27.13:945][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.02-07.27.13:945][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.02-07.27.13:945][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.02-07.27.13:945][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.02-07.27.13:945][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.02-07.27.13:945][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.02-07.27.13:945][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.02-07.27.13:945][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/!!!САНЁК/!UNREAL/!SANYA/Saved/Config/Windows/Scalability.ini]
+[2020.03.02-07.27.13:945][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.03.02-07.27.13:945][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.02-07.27.13:945][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.02-07.27.13:945][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.02-07.27.13:945][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.02-07.27.13:945][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.03.02-07.27.13:945][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.02-07.27.13:945][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.03.02-07.27.13:945][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.02-07.27.13:945][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.02-07.27.13:945][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.02-07.27.13:945][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.03.02-07.27.13:945][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.02-07.27.13:945][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.02-07.27.13:945][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.02-07.27.13:945][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.02-07.27.13:945][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.02-07.27.13:945][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.02-07.27.13:945][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.02-07.27.13:945][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.02-07.27.13:945][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.02-07.27.13:945][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.02-07.27.13:945][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.02-07.27.13:945][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.02-07.27.13:945][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.02-07.27.13:945][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.02-07.27.13:945][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.02-07.27.13:945][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.02-07.27.13:945][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.02-07.27.13:945][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.02-07.27.13:945][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/!!!САНЁК/!UNREAL/!SANYA/Saved/Config/Windows/Scalability.ini]
+[2020.03.02-07.27.13:945][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.02-07.27.13:945][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.02-07.27.13:945][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.02-07.27.13:945][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.02-07.27.13:945][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.02-07.27.13:945][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.02-07.27.13:945][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.02-07.27.13:945][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.02-07.27.13:945][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/!!!САНЁК/!UNREAL/!SANYA/Saved/Config/Windows/Scalability.ini]
+[2020.03.02-07.27.13:945][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.03.02-07.27.13:945][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.02-07.27.13:945][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.03.02-07.27.13:945][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.03.02-07.27.13:945][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.02-07.27.13:945][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.02-07.27.13:945][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.02-07.27.13:945][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.02-07.27.13:945][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.02-07.27.13:945][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.02-07.27.13:945][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.02-07.27.13:945][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.02-07.27.13:945][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.02-07.27.13:945][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/!!!САНЁК/!UNREAL/!SANYA/Saved/Config/Windows/Scalability.ini]
+[2020.03.02-07.27.13:945][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.02-07.27.13:945][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.02-07.27.13:945][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.02-07.27.13:946][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.03.02-07.27.14:096][  0]LogHAL: Display: Platform has ~ 16 GB [17137102848 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.03.02-07.27.14:096][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.03.02-07.27.14:096][  0]LogInit: Going up to parent DeviceProfile []
+[2020.03.02-07.27.14:096][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/!!!САНЁК/!UNREAL/!SANYA/Saved/Config/Windows/Scalability.ini]
+[2020.03.02-07.27.14:096][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.02-07.27.14:096][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.02-07.27.14:096][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/!!!САНЁК/!UNREAL/!SANYA/Saved/Config/Windows/Scalability.ini]
+[2020.03.02-07.27.14:096][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.03.02-07.27.14:096][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/!!!САНЁК/!UNREAL/!SANYA/Saved/Config/Windows/Scalability.ini]
+[2020.03.02-07.27.14:096][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.02-07.27.14:096][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.02-07.27.14:096][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.02-07.27.14:096][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.02-07.27.14:096][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.02-07.27.14:096][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.02-07.27.14:096][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.02-07.27.14:096][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.02-07.27.14:096][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.02-07.27.14:096][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.02-07.27.14:096][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.02-07.27.14:096][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.02-07.27.14:096][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.02-07.27.14:096][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.02-07.27.14:096][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.02-07.27.14:096][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.02-07.27.14:096][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.02-07.27.14:096][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.02-07.27.14:096][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/!!!САНЁК/!UNREAL/!SANYA/Saved/Config/Windows/Scalability.ini]
+[2020.03.02-07.27.14:096][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.03.02-07.27.14:096][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.02-07.27.14:096][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.02-07.27.14:096][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.02-07.27.14:096][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.02-07.27.14:096][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.03.02-07.27.14:096][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.02-07.27.14:096][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.03.02-07.27.14:096][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.02-07.27.14:096][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.02-07.27.14:096][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.02-07.27.14:096][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.03.02-07.27.14:096][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.02-07.27.14:096][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.02-07.27.14:096][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.02-07.27.14:096][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.02-07.27.14:096][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.02-07.27.14:096][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.02-07.27.14:096][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.02-07.27.14:096][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.02-07.27.14:096][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.02-07.27.14:096][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.02-07.27.14:096][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.02-07.27.14:096][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.02-07.27.14:096][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.02-07.27.14:096][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.02-07.27.14:096][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.02-07.27.14:096][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.02-07.27.14:096][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.02-07.27.14:096][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.02-07.27.14:097][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/!!!САНЁК/!UNREAL/!SANYA/Saved/Config/Windows/Scalability.ini]
+[2020.03.02-07.27.14:097][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.02-07.27.14:097][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.02-07.27.14:097][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.02-07.27.14:097][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.02-07.27.14:097][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.02-07.27.14:097][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.02-07.27.14:097][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.02-07.27.14:097][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.02-07.27.14:097][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/!!!САНЁК/!UNREAL/!SANYA/Saved/Config/Windows/Scalability.ini]
+[2020.03.02-07.27.14:097][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.03.02-07.27.14:097][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.02-07.27.14:097][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.03.02-07.27.14:097][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.03.02-07.27.14:097][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.02-07.27.14:097][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.02-07.27.14:097][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.02-07.27.14:097][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.02-07.27.14:097][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.02-07.27.14:097][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.02-07.27.14:097][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.02-07.27.14:097][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.02-07.27.14:097][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.02-07.27.14:097][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/!!!САНЁК/!UNREAL/!SANYA/Saved/Config/Windows/Scalability.ini]
+[2020.03.02-07.27.14:097][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.02-07.27.14:097][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.02-07.27.14:097][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.03.02-07.27.14:122][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.03.02-07.27.14:122][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.03.02-07.27.14:122][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [F:/!!!САНЁК/!UNREAL/!SANYA/Saved/Config/Windows/Engine.ini]
+[2020.03.02-07.27.14:122][  0]LogInit: Computer: DESKTOP-B0E6U9F
+[2020.03.02-07.27.14:122][  0]LogInit: User: rouen
+[2020.03.02-07.27.14:122][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.03.02-07.27.14:122][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.03.02-07.27.14:122][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2020.03.02-07.27.14:122][  0]LogMemory: Platform Memory Stats for Windows
+[2020.03.02-07.27.14:122][  0]LogMemory: Process Physical Memory: 99.59 MB used, 99.60 MB peak
+[2020.03.02-07.27.14:122][  0]LogMemory: Process Virtual Memory: 89.05 MB used, 89.05 MB peak
+[2020.03.02-07.27.14:122][  0]LogMemory: Physical Memory: 3250.70 MB used,  13092.52 MB free, 16343.21 MB total
+[2020.03.02-07.27.14:122][  0]LogMemory: Virtual Memory: 4642.28 MB used,  134213088.00 MB free, 134217728.00 MB total
+[2020.03.02-07.27.14:830][  0]LogInit: Using OS detected language (ru-RU).
+[2020.03.02-07.27.14:830][  0]LogInit: Using OS detected locale (ru-RU).
+[2020.03.02-07.27.14:870][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2020.03.02-07.27.14:871][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/ru/Editor.locres' could not be opened for reading!
+[2020.03.02-07.27.14:871][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/ru/EditorTutorials.locres' could not be opened for reading!
+[2020.03.02-07.27.14:872][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/ru/Keywords.locres' could not be opened for reading!
+[2020.03.02-07.27.14:872][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/ru/Category.locres' could not be opened for reading!
+[2020.03.02-07.27.14:881][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/ru/ToolTips.locres' could not be opened for reading!
+[2020.03.02-07.27.14:889][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/ru/PropertyNames.locres' could not be opened for reading!
+[2020.03.02-07.27.14:889][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/ru/Engine.locres' could not be opened for reading!
+[2020.03.02-07.27.15:000][  0]LogInit: Setting process to per monitor DPI aware
+[2020.03.02-07.27.15:248][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.03.02-07.27.15:248][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.03.02-07.27.19:184][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.03.02-07.27.19:184][  0]LogD3D11RHI: D3D11 adapters:
+[2020.03.02-07.27.19:240][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 3GB' (Feature Level 11_0)
+[2020.03.02-07.27.19:240][  0]LogD3D11RHI:       2988/0/8171 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.03.02-07.27.19:242][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.03.02-07.27.19:242][  0]LogD3D11RHI:       0/0/8171 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.03.02-07.27.19:242][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.03.02-07.27.19:246][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.03.02-07.27.19:246][  0]LogD3D11RHI:     GPU DeviceId: 0x1c02 (for the marketing name, search the web for "GPU Device Id")
+[2020.03.02-07.27.19:246][  0]LogWindows: EnumDisplayDevices:
+[2020.03.02-07.27.19:246][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 3GB' (P:1 D:1)
+[2020.03.02-07.27.19:247][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2020.03.02-07.27.19:247][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2020.03.02-07.27.19:247][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2020.03.02-07.27.19:247][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.03.02-07.27.19:247][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 3GB
+[2020.03.02-07.27.19:247][  0]LogD3D11RHI:   Driver Version: 441.66 (internal:26.21.14.4166, unified:441.66)
+[2020.03.02-07.27.19:247][  0]LogD3D11RHI:      Driver Date: 12-6-2019
+[2020.03.02-07.27.19:247][  0]LogRHI: Texture pool is 2091 MB (70% of 2988 MB)
+[2020.03.02-07.27.19:293][  0]LogD3D11RHI: Async texture creation enabled
+[2020.03.02-07.27.19:346][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.03.02-07.27.19:346][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.03.02-07.27.19:346][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.03.02-07.27.19:353][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.03.02-07.27.20:555][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.03.02-07.27.20:594][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.03.02-07.27.20:652][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.03.02-07.27.20:744][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.03.02-07.27.20:800][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.03.02-07.27.20:838][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.03.02-07.27.20:871][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.03.02-07.27.20:905][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.03.02-07.27.20:934][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.03.02-07.27.21:305][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.03.02-07.27.21:305][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.03.02-07.27.21:305][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.03.02-07.27.21:305][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.03.02-07.27.21:305][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.03.02-07.27.21:305][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.03.02-07.27.21:305][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.03.02-07.27.21:305][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.03.02-07.27.21:305][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.03.02-07.27.21:306][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.03.02-07.27.21:306][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.03.02-07.27.21:306][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.03.02-07.27.21:306][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.03.02-07.27.21:306][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.03.02-07.27.21:306][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.03.02-07.27.21:306][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.03.02-07.27.21:306][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.03.02-07.27.21:306][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.03.02-07.27.21:348][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.03.02-07.27.21:611][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.03.02-07.27.21:611][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.03.02-07.27.21:688][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.03.02-07.27.21:688][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.03.02-07.27.21:740][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.03.02-07.27.21:774][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.03.02-07.27.21:819][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.03.02-07.27.21:881][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.03.02-07.27.21:955][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.03.02-07.27.21:955][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.03.02-07.27.21:955][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.03.02-07.27.22:120][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.03.02-07.27.23:263][  0]LogShaderCompilers: Guid format shader working directory is 19 characters bigger than the processId version (F:/!!!САНЁК/!UNREAL/!SANYA/Intermediate/Shaders/WorkingDirectory/15084/).
+[2020.03.02-07.27.23:263][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/rouen/AppData/Local/Temp/UnrealShaderWorkingDir/13965B0A46DFD937FF37B3B6A6319A9D/'.
+[2020.03.02-07.27.23:266][  0]LogXGEController: Cleaning working directory: C:/Users/rouen/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.03.02-07.27.23:278][  0]LogShaderCompilers: Display: Using XGE Shader Compiler (Interception Interface).
+[2020.03.02-07.27.28:130][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.03.02-07.27.28:655][  0]LogDerivedDataCache: Loaded boot cache 0.53s 71MB C:/Users/rouen/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.03.02-07.27.28:655][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/rouen/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.03.02-07.27.28:655][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file F:/!!!САНЁК/!UNREAL/!SANYA/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.03.02-07.27.28:656][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.03.02-07.27.28:656][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file F:/!!!САНЁК/!UNREAL/!SANYA/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.02-07.27.28:656][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.03.02-07.27.28:803][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.03.02-07.27.28:803][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.02-07.27.28:803][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.03.02-07.27.28:815][  0]LogDerivedDataCache: Using Local data cache path C:/Users/rouen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.03.02-07.27.28:815][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.03.02-07.27.28:815][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.03.02-07.27.28:841][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.03.02-07.27.28:842][  0]LogSlate: Using FreeType 2.6.0
+[2020.03.02-07.27.28:874][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.03.02-07.27.29:326][  0]LogAssetRegistry: FAssetRegistry took 0.0429 seconds to start up
+[2020.03.02-07.27.29:660][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.02-07.27.31:847][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.03.02-07.27.31:847][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.03.02-07.27.31:847][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.03.02-07.27.31:847][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.03.02-07.27.31:847][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.03.02-07.27.32:010][  0]LogNetVersion: Sanya 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 4266523157)
+[2020.03.02-07.27.35:203][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.713528 seconds
+[2020.03.02-07.27.35:210][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2020.03.02-07.27.35:210][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2020.03.02-07.27.35:210][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.03.02-07.27.45:205][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.03.02-07.27.45:300][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.03.02-07.27.46:802][  0]SourceControl: Source control is disabled
+[2020.03.02-07.27.46:802][  0]SourceControl: Source control is disabled
+[2020.03.02-07.27.46:886][  0]SourceControl: Source control is disabled
+[2020.03.02-07.27.46:908][  0]SourceControl: Source control is disabled
+[2020.03.02-07.27.46:968][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.03.02-07.27.46:969][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.03.02-07.27.49:684][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.03.02-07.27.50:646][  0]LogOcInput: OculusInput pre-init called
+[2020.03.02-07.27.52:333][  0]LogEngine: Initializing Engine...
+[2020.03.02-07.27.52:334][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.03.02-07.27.52:335][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.03.02-07.27.53:085][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.03.02-07.27.53:125][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.03.02-07.27.53:142][  0]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.02-07.27.53:189][  0]LogInit: FAudioDevice initialized.
+[2020.03.02-07.27.53:189][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.03.02-07.27.53:333][  0]LogDerivedDataCache: Saved boot cache 0.14s 71MB C:/Users/rouen/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.03.02-07.27.53:358][  0]LogInit: Texture streaming: Enabled
+[2020.03.02-07.27.53:582][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.03.02-07.27.54:583][  0]LogInit: Transaction tracking system initialized
+[2020.03.02-07.27.54:963][  0]BlueprintLog: New page: Editor Load
+[2020.03.02-07.27.58:247][  0]LocalizationService: Localization service is disabled
+[2020.03.02-07.28.00:282][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.03.02-07.28.00:283][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.03.02-07.28.05:011][  0]LogFileCache: Scanning file cache for directory 'F:/!!!САНЁК/!UNREAL/!SANYA/Content/' took 0.02s
+[2020.03.02-07.28.05:011][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.03.02-07.28.05:011][  0]LogCook: Display: Mobile HDR setting 1
+[2020.03.02-07.28.11:171][  0]SourceControl: Source control is disabled
+[2020.03.02-07.28.11:172][  0]Cmd: MAP LOAD FILE="F:/!!!САНЁК/!UNREAL/!SANYA/Content/BoyCharacter/Maps/2DSideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.02-07.28.11:172][  0]LightingResults: New page: Lighting Build
+[2020.03.02-07.28.11:179][  0]MapCheck: New page: Map Check
+[2020.03.02-07.28.11:179][  0]LightingResults: New page: Lighting Build
+[2020.03.02-07.28.11:230][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2020.03.02-07.28.13:885][  0]LogBlueprint: Warning: [Compiler boyCharacter] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2020.03.02-07.28.13:917][  0]LogBlueprint: Warning: [Compiler boyCharacter] [0092,89] Compile of boyCharacter successful, but with 1 Warning(s) [in 106 ms] (/Game/BoyCharacter/Blueprints/boyCharacter.boyCharacter)
+[2020.03.02-07.28.16:472][  0]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2020.03.02-07.28.16:501][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.02-07.28.16:527][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2020.03.02-07.28.16:527][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.02-07.28.16:527][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,079ms to complete.
+[2020.03.02-07.28.16:527][  0]LogFileHelpers: Loading map '2DSideScrollerExampleMap' took 5.356
+[2020.03.02-07.28.16:858][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.02-07.28.16:884][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.02-07.28.16:895][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.02-07.28.16:906][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.02-07.28.16:954][  0]LogCollectionManager: Loaded 0 collections in 0.003295 seconds
+[2020.03.02-07.28.16:980][  0]LogFileCache: Scanning file cache for directory 'F:/!!!САНЁК/!UNREAL/!SANYA/Saved/Collections/' took 0.01s
+[2020.03.02-07.28.16:980][  0]LogFileCache: Scanning file cache for directory 'F:/!!!САНЁК/!UNREAL/!SANYA/Content/Developers/rouen/Collections/' took 0.00s
+[2020.03.02-07.28.16:980][  0]LogFileCache: Scanning file cache for directory 'F:/!!!САНЁК/!UNREAL/!SANYA/Content/Collections/' took 0.00s
+[2020.03.02-07.28.16:980][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2020.03.02-07.28.17:008][  0]LogContentBrowser: Native class hierarchy populated in 0.0273 seconds. Added 2732 classes and 659 folders.
+[2020.03.02-07.28.17:013][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.03.02-07.28.17:038][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.02-07.28.17:060][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.02-07.28.17:121][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.02-07.28.17:204][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.02-07.28.17:262][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.02-07.28.17:322][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.02-07.28.17:523][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.02-07.28.17:566][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.02-07.28.17:582][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.02-07.28.17:603][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.02-07.28.17:620][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.02-07.28.17:639][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.02-07.28.17:658][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.02-07.28.17:668][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.02-07.28.17:679][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.02-07.28.17:696][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.02-07.28.17:733][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.02-07.28.17:739][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.02-07.28.17:752][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.02-07.28.17:767][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.02-07.28.17:782][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.02-07.28.17:797][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.02-07.28.17:810][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.02-07.28.17:827][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.02-07.28.17:860][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.02-07.28.17:893][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.02-07.28.19:249][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2020.03.02-07.28.19:335][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2020.03.02-07.28.19:428][  0]LogSlate: Took 0.023179 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.03.02-07.28.19:448][  0]LogSlate: Took 0.017520 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.03.02-07.28.19:472][  0]LogSlate: Took 0.018200 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.03.02-07.28.19:950][  0]LogRenderer: Reallocating scene render targets to support 1188x636 Format 10 NumSamples 1 (Frame:1).
+[2020.03.02-07.28.20:040][  0]LogSlate: Took 0.054690 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.02-07.28.20:201][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2020.03.02-07.28.20:202][  0]LogLoad: (Engine Initialization) Total time: 99.17 seconds
+[2020.03.02-07.28.20:202][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.03.02-07.28.20:272][  0]LogAssetRegistry: Asset discovery search completed in 50.9687 seconds
+[2020.03.02-07.28.20:275][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.03.02-07.28.20:276][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000110 seconds (updated 0 objects)
+[2020.03.02-07.28.20:277][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.03.02-07.28.24:567][202]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.02-07.28.27:596][546]LogSlate: Took 0.000130 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.02-07.28.28:596][546]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.03.02-07.28.33:425][121]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.03.02-07.28.33:425][121]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.03.02-07.28.39:533][837]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThingsBP/BP_Light.BP_Light
+[2020.03.02-07.28.39:879][837]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0012 seconds. Added 121 classes and 0 folders.
+[2020.03.02-07.28.41:456][838]LogRenderer: Reallocating scene render targets to support 1188x676 Format 10 NumSamples 1 (Frame:1).
+[2020.03.02-07.28.42:284][912]LogSlate: Took 0.024890 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.03.02-07.28.42:850][976]LogRenderer: Reallocating scene render targets to support 1188x708 Format 10 NumSamples 1 (Frame:131).
+[2020.03.02-07.28.43:075][  0]LogSlate: Window 'BP_Light' being destroyed
+[2020.03.02-07.29.10:360][218]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.02-07.29.19:331][271]LogSlate: Window 'Color Picker' being destroyed
+[2020.03.02-07.29.20:250][380]LogHttp: Warning: 0000021E77B6D580: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.03.02-07.29.20:250][380]LogHttp: Warning: 0000021E77B6D580: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.03.02-07.29.20:250][380]LogHttp: Warning: 0000021E77B6D580: libcurl info message cache 1 (Closing connection 0)
+[2020.03.02-07.29.20:250][380]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCF2D2BAB-448E-F8EA-B8CF-42B0E6A00D0D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=388aa82440159cd02e6ac7be636c6856%7Ca29c5457ae9b4b4397a1fe5187b6c38c%7Cbceb8366-7753-4fa1-947c-d2077ecae7d6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.03.02-07.29.41:851][949]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.02-07.29.45:256][348]LogEditorViewport: Clicking on Component (SHIFT LMB): PointLightComponent (PointLight1)
+[2020.03.02-07.29.45:867][418]LogEditorViewport: Clicking on Component (SHIFT LMB): PointLightComponent (PointLight)
+[2020.03.02-07.29.48:454][723]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.02-07.29.48:520][731]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.03.02-07.29.48:615][731]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.03.02-07.29.48:615][731]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.03.02-07.29.48:617][731]LogPlayLevel: [PlayLevel] Compiling BP_Light before play...
+[2020.03.02-07.29.48:951][731]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2020.03.02-07.29.48:951][731]LogPlayLevel: PlayLevel: Blueprint regeneration took 336 ms (1 blueprints)
+[2020.03.02-07.29.48:952][731]PIE: New page: PIE session: 2DSideScrollerExampleMap (2 марта 2020 г., 13:29:48)
+[2020.03.02-07.29.48:964][731]LogPlayLevel: Creating play world package: /Game/BoyCharacter/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2020.03.02-07.29.48:970][731]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004733s)
+[2020.03.02-07.29.48:970][731]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2020.03.02-07.29.48:970][731]LogPlayLevel: PIE: World Init took: (0.000552s)
+[2020.03.02-07.29.48:970][731]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/BoyCharacter/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.005839s)
+[2020.03.02-07.29.48:994][731]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2020.03.02-07.29.49:001][731]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.02-07.29.49:017][731]LogInit: FAudioDevice initialized.
+[2020.03.02-07.29.49:024][731]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.02-07.29.49:069][731]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.03.02-07.29.49:071][731]LogWorld: Bringing World /Game/BoyCharacter/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2020.03.02-10.29.49
+[2020.03.02-07.29.49:072][731]LogWorld: Bringing up level for play took: 0.001442
+[2020.03.02-07.29.49:087][731]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2020.03.02-07.29.49:090][731]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2020.03.02-07.29.49:091][731]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 20 classes and 0 folders.
+[2020.03.02-07.29.49:099][731]PIE: Play in editor start time for /Game/BoyCharacter/Maps/UEDPIE_0_2DSideScrollerExampleMap 0,491
+[2020.03.02-07.29.49:099][731]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.03.02-07.29.49:122][732]LogRenderer: Reallocating scene render targets to support 1272x708 Format 10 NumSamples 1 (Frame:1).
+[2020.03.02-07.29.52:182][ 60]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.03.02-07.29.52:182][ 60]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.02-07.29.52:264][ 60]LogSlate: Window 'Sanya Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.02-07.29.52:310][ 60]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.02-07.29.52:311][ 60]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.03.02-07.29.52:398][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2020.03.02-07.29.52:411][ 61]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2020.03.02-07.29.53:444][183]LogEditorViewport: Clicking on Actor (LMB): BlockingVolume (BlockingVolume)
+[2020.03.02-07.29.55:278][396]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.02-07.30.06:225][693]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.02-07.30.06:292][701]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.03.02-07.30.06:372][701]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.03.02-07.30.06:372][701]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.02-07.30.06:372][701]PIE: New page: PIE session: 2DSideScrollerExampleMap (2 марта 2020 г., 13:30:06)
+[2020.03.02-07.30.06:373][701]LogPlayLevel: Creating play world package: /Game/BoyCharacter/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2020.03.02-07.30.06:389][701]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016784s)
+[2020.03.02-07.30.06:391][701]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2020.03.02-07.30.06:391][701]LogPlayLevel: PIE: World Init took: (0.001002s)
+[2020.03.02-07.30.06:391][701]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/BoyCharacter/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.018157s)
+[2020.03.02-07.30.06:434][701]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2020.03.02-07.30.06:443][701]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.02-07.30.06:458][701]LogInit: FAudioDevice initialized.
+[2020.03.02-07.30.06:464][701]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.02-07.30.06:492][701]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.03.02-07.30.06:494][701]LogWorld: Bringing World /Game/BoyCharacter/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2020.03.02-10.30.06
+[2020.03.02-07.30.06:494][701]LogWorld: Bringing up level for play took: 0.001638
+[2020.03.02-07.30.06:513][701]PIE: Play in editor start time for /Game/BoyCharacter/Maps/UEDPIE_0_2DSideScrollerExampleMap -0,094
+[2020.03.02-07.30.06:514][701]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.03.02-07.30.13:514][539]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.03.02-07.30.13:515][539]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.02-07.30.13:598][539]LogSlate: Window 'Sanya Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.02-07.30.13:657][539]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.02-07.30.13:657][539]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.03.02-07.30.13:745][539]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2020.03.02-07.30.13:758][540]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2020.03.02-07.30.16:102][819]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (roomgeneral_Sprite2)
+[2020.03.02-07.30.19:254][189]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (sh_Sprite3)
+[2020.03.02-07.30.20:135][291]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (roomgeneral_Sprite2)
+[2020.03.02-07.30.21:937][502]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (sh_Sprite3)
+[2020.03.02-07.30.55:597][528]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.02-07.30.57:168][708]LogSlate: Took 0.051214 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.03.02-07.31.01:421][196]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2020.03.02-07.31.01:968][196]LogSavePackage: Moving 'F:/!!!САНЁК/!UNREAL/!SANYA/Saved/2DSideScrollerExampleMap3B895A6F48F2DBB02BA9ECABDCE37415.tmp' to 'F:/!!!САНЁК/!UNREAL/!SANYA/Content/BoyCharacter/Maps/2DSideScrollerExampleMap.umap'
+[2020.03.02-07.31.02:305][196]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BoyCharacter/Maps/2DSideScrollerExampleMap_BuiltData" FILE="F:/!!!САНЁК/!UNREAL/!SANYA/Content/BoyCharacter/Maps/2DSideScrollerExampleMap_BuiltData.uasset" SILENT=true
+[2020.03.02-07.31.02:634][196]LogSavePackage: Moving 'F:/!!!САНЁК/!UNREAL/!SANYA/Saved/2DSideScrollerExampleMap_BuiltDa913A76504DA46E02E2D027858CC47F7F.tmp' to 'F:/!!!САНЁК/!UNREAL/!SANYA/Content/BoyCharacter/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2020.03.02-07.31.05:977][570]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThingsBP/BP_Light" FILE="F:/!!!САНЁК/!UNREAL/!SANYA/Content/ThingsBP/BP_Light.uasset" SILENT=true
+[2020.03.02-07.31.06:113][570]LogSavePackage: Moving 'F:/!!!САНЁК/!UNREAL/!SANYA/Saved/BP_LightF25B7C4A466483FA93C51F9BB1E56F88.tmp' to 'F:/!!!САНЁК/!UNREAL/!SANYA/Content/ThingsBP/BP_Light.uasset'
+[2020.03.02-07.31.08:769][868]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.03.02-07.31.08:847][868]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.03.02-07.31.08:847][868]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.02-07.31.08:847][868]PIE: New page: PIE session: 2DSideScrollerExampleMap (2 марта 2020 г., 13:31:08)
+[2020.03.02-07.31.08:848][868]LogPlayLevel: Creating play world package: /Game/BoyCharacter/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2020.03.02-07.31.08:868][868]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020018s)
+[2020.03.02-07.31.08:868][868]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2020.03.02-07.31.08:869][868]LogPlayLevel: PIE: World Init took: (0.002030s)
+[2020.03.02-07.31.08:869][868]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/BoyCharacter/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.022568s)
+[2020.03.02-07.31.08:938][868]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2020.03.02-07.31.08:945][868]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.02-07.31.08:959][868]LogInit: FAudioDevice initialized.
+[2020.03.02-07.31.08:966][868]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.02-07.31.09:000][868]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.03.02-07.31.09:002][868]LogWorld: Bringing World /Game/BoyCharacter/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2020.03.02-10.31.09
+[2020.03.02-07.31.09:002][868]LogWorld: Bringing up level for play took: 0.001440
+[2020.03.02-07.31.09:019][868]PIE: Play in editor start time for /Game/BoyCharacter/Maps/UEDPIE_0_2DSideScrollerExampleMap 0,411
+[2020.03.02-07.31.09:019][868]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.03.02-07.31.09:045][870]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.31.09:054][871]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.31.09:062][872]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.31.09:070][873]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.31.09:079][874]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.31.09:087][875]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.31.09:095][876]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.31.09:104][877]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.31.09:112][878]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.31.09:120][879]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.31.09:129][880]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.31.09:137][881]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.31.09:145][882]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.31.09:154][883]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.31.09:162][884]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.31.09:171][885]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.31.09:178][886]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.31.09:187][887]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.31.09:195][888]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.31.09:203][889]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.31.09:212][890]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.31.09:220][891]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.31.09:228][892]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.31.09:237][893]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.31.09:245][894]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.31.09:254][895]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.31.09:262][896]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.31.09:271][897]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.31.09:278][898]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.31.09:287][899]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.31.09:295][900]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.31.09:303][901]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.31.09:312][902]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.31.09:320][903]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.31.09:328][904]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.31.09:337][905]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.31.09:345][906]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.31.09:354][907]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.31.09:362][908]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.31.09:371][909]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.31.09:379][910]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.31.09:387][911]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.31.09:396][912]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.31.09:404][913]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.31.09:413][914]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.31.09:421][915]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.31.09:429][916]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.31.09:438][917]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.31.09:446][918]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.31.09:454][919]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.31.09:462][920]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.31.09:462][920]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.03.02-07.31.09:463][920]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.02-07.31.09:508][920]LogSlate: Window 'Sanya Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.02-07.31.09:553][920]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.02-07.31.09:554][920]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.03.02-07.31.09:631][920]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2020.03.02-07.31.09:653][921]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2020.03.02-07.31.16:468][730]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.02-07.31.17:620][868]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (roomhall_Sprite)
+[2020.03.02-07.31.19:807][126]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.02-07.31.20:279][181]LogHttp: Warning: 0000021E12452480: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.03.02-07.31.20:279][181]LogHttp: Warning: 0000021E12452480: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.03.02-07.31.20:279][181]LogHttp: Warning: 0000021E12452480: libcurl info message cache 1 (Closing connection 1)
+[2020.03.02-07.31.20:286][182]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCF2D2BAB-448E-F8EA-B8CF-42B0E6A00D0D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=388aa82440159cd02e6ac7be636c6856%7Ca29c5457ae9b4b4397a1fe5187b6c38c%7Cbceb8366-7753-4fa1-947c-d2077ecae7d6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.03.02-07.31.20:848][249]LogEditorViewport: Clicking on Actor (LMB): BP_Light_C (BP_Light)
+[2020.03.02-07.31.22:975][501]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.02-07.31.41:456][703]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.02-07.31.43:234][914]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.02-07.31.46:363][286]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.02-07.31.50:566][789]BlueprintLog: New page: Compile BP_Light
+[2020.03.02-07.31.50:734][789]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2020.03.02-07.31.51:440][860]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThingsBP/BP_Light" FILE="F:/!!!САНЁК/!UNREAL/!SANYA/Content/ThingsBP/BP_Light.uasset" SILENT=true
+[2020.03.02-07.31.51:704][860]LogSavePackage: Moving 'F:/!!!САНЁК/!UNREAL/!SANYA/Saved/BP_Light3901D3F64989667B3249C18E4487C320.tmp' to 'F:/!!!САНЁК/!UNREAL/!SANYA/Content/ThingsBP/BP_Light.uasset'
+[2020.03.02-07.31.52:047][883]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.02-07.31.55:616][307]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.02-07.32.09:373][927]LogEditorTransaction: Undo Attach Component
+[2020.03.02-07.32.14:087][486]LogSlate: Window 'Color Picker' being destroyed
+[2020.03.02-07.32.14:762][567]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.02-07.32.21:355][349]LogSlate: Window 'Color Picker' being destroyed
+[2020.03.02-07.32.21:971][422]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.02-07.32.26:195][917]LogSlate: Window 'Color Picker' being destroyed
+[2020.03.02-07.32.28:543][196]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.02-07.32.31:781][581]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.02-07.32.33:968][841]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.02-07.32.37:148][217]Cmd: TRANSACTION UNDO
+[2020.03.02-07.32.37:149][217]LogEditorTransaction: Undo Move Components
+[2020.03.02-07.32.38:191][335]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.02-07.32.40:143][568]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.02-07.32.40:209][576]BlueprintLog: New page: Compile BP_Light
+[2020.03.02-07.32.40:380][576]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2020.03.02-07.32.46:072][240]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.02-07.32.48:724][556]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.02-07.32.50:944][819]LogEditorViewport: Clicking on Actor (LMB): BP_Light_C (BP_Light)
+[2020.03.02-07.32.51:408][873]LogEditorViewport: Clicking on Actor (LMB): BP_Light_C (BP_Light)
+[2020.03.02-07.32.52:031][946]LogEditorViewport: Clicking Background
+[2020.03.02-07.32.53:141][ 78]LogEditorViewport: Clicking on Actor (LMB): BP_Light_C (BP_Light)
+[2020.03.02-07.32.54:314][216]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.02-07.32.59:244][804]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.02-07.33.12:050][331]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.02-07.33.20:314][319]LogHttp: Warning: 0000021E0C28EFC0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.03.02-07.33.20:314][319]LogHttp: Warning: 0000021E0C28EFC0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.03.02-07.33.20:314][319]LogHttp: Warning: 0000021E0C28EFC0: libcurl info message cache 1 (Closing connection 2)
+[2020.03.02-07.33.20:322][320]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCF2D2BAB-448E-F8EA-B8CF-42B0E6A00D0D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=388aa82440159cd02e6ac7be636c6856%7Ca29c5457ae9b4b4397a1fe5187b6c38c%7Cbceb8366-7753-4fa1-947c-d2077ecae7d6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.03.02-07.33.54:150][341]BlueprintLog: New page: Compile BP_Light
+[2020.03.02-07.33.54:345][341]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2020.03.02-07.33.56:373][583]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.03.02-07.33.56:475][583]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.03.02-07.33.56:475][583]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.02-07.33.56:475][583]PIE: New page: PIE session: 2DSideScrollerExampleMap (2 марта 2020 г., 13:33:56)
+[2020.03.02-07.33.56:476][583]LogPlayLevel: Creating play world package: /Game/BoyCharacter/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2020.03.02-07.33.56:497][583]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020715s)
+[2020.03.02-07.33.56:498][583]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2020.03.02-07.33.56:499][583]LogPlayLevel: PIE: World Init took: (0.001956s)
+[2020.03.02-07.33.56:499][583]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/BoyCharacter/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.023204s)
+[2020.03.02-07.33.56:558][583]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2020.03.02-07.33.56:564][583]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.02-07.33.56:578][583]LogInit: FAudioDevice initialized.
+[2020.03.02-07.33.56:585][583]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.02-07.33.56:615][583]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.03.02-07.33.56:617][583]LogWorld: Bringing World /Game/BoyCharacter/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2020.03.02-10.33.56
+[2020.03.02-07.33.56:618][583]LogWorld: Bringing up level for play took: 0.001657
+[2020.03.02-07.33.56:701][583]PIE: Play in editor start time for /Game/BoyCharacter/Maps/UEDPIE_0_2DSideScrollerExampleMap 0,092
+[2020.03.02-07.33.56:702][583]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.03.02-07.34.00:576][ 35]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.03.02-07.34.00:576][ 35]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.02-07.34.00:688][ 35]LogSlate: Window 'Sanya Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.02-07.34.00:750][ 35]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.02-07.34.00:751][ 35]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.03.02-07.34.00:833][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2020.03.02-07.34.00:850][ 36]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2020.03.02-07.34.34:221][ 37]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.02-07.35.13:504][632]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.03.02-07.35.20:371][455]LogHttp: Warning: 0000021E115A25C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.03.02-07.35.20:372][455]LogHttp: Warning: 0000021E115A25C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.03.02-07.35.20:372][455]LogHttp: Warning: 0000021E115A25C0: libcurl info message cache 1 (Closing connection 3)
+[2020.03.02-07.35.20:380][456]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCF2D2BAB-448E-F8EA-B8CF-42B0E6A00D0D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=388aa82440159cd02e6ac7be636c6856%7Ca29c5457ae9b4b4397a1fe5187b6c38c%7Cbceb8366-7753-4fa1-947c-d2077ecae7d6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.03.02-07.35.44:749][369]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThingsBP/BP_LightOnOff.BP_LightOnOff
+[2020.03.02-07.36.35:376][305]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.02-07.36.47:655][777]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.02-07.37.14:769][ 15]LogSlate: Took 0.028327 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.03.02-07.37.20:407][686]LogHttp: Warning: 0000021E8F54E200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.03.02-07.37.20:407][686]LogHttp: Warning: 0000021E8F54E200: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.03.02-07.37.20:407][686]LogHttp: Warning: 0000021E8F54E200: libcurl info message cache 1 (Closing connection 4)
+[2020.03.02-07.37.20:407][686]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCF2D2BAB-448E-F8EA-B8CF-42B0E6A00D0D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=388aa82440159cd02e6ac7be636c6856%7Ca29c5457ae9b4b4397a1fe5187b6c38c%7Cbceb8366-7753-4fa1-947c-d2077ecae7d6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.03.02-07.37.24:579][183]BlueprintLog: New page: Compile BP_LightOnOff
+[2020.03.02-07.37.24:750][183]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2020.03.02-07.37.26:995][447]BlueprintLog: New page: Compile BP_LightOnOff
+[2020.03.02-07.37.27:153][447]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2020.03.02-07.37.35:456][427]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2020.03.02-07.37.38:343][754]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2020.03.02-07.37.38:610][754]LogSavePackage: Moving 'F:/!!!САНЁК/!UNREAL/!SANYA/Saved/2DSideScrollerExampleMap8A4395774C4DA212C881E59FB06D3562.tmp' to 'F:/!!!САНЁК/!UNREAL/!SANYA/Content/BoyCharacter/Maps/2DSideScrollerExampleMap.umap'
+[2020.03.02-07.37.38:899][754]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BoyCharacter/Maps/2DSideScrollerExampleMap_BuiltData" FILE="F:/!!!САНЁК/!UNREAL/!SANYA/Content/BoyCharacter/Maps/2DSideScrollerExampleMap_BuiltData.uasset" SILENT=true
+[2020.03.02-07.37.39:200][754]LogSavePackage: Moving 'F:/!!!САНЁК/!UNREAL/!SANYA/Saved/2DSideScrollerExampleMap_BuiltDa36A0C2F14298D74644A6CCABD551D65F.tmp' to 'F:/!!!САНЁК/!UNREAL/!SANYA/Content/BoyCharacter/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2020.03.02-07.38.37:961][700]BlueprintLog: New page: Compile BP_LightOnOff
+[2020.03.02-07.38.38:123][700]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2020.03.02-07.38.43:903][382]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.03.02-07.38.44:012][382]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.03.02-07.38.44:012][382]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.03.02-07.38.44:017][382]LogPlayLevel: [PlayLevel] Compiling BP_Light before play...
+[2020.03.02-07.38.44:222][382]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2020.03.02-07.38.44:223][382]LogPlayLevel: PlayLevel: Blueprint regeneration took 210 ms (1 blueprints)
+[2020.03.02-07.38.44:223][382]PIE: New page: PIE session: 2DSideScrollerExampleMap (2 марта 2020 г., 13:38:44)
+[2020.03.02-07.38.44:223][382]LogPlayLevel: Creating play world package: /Game/BoyCharacter/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2020.03.02-07.38.44:230][382]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006789s)
+[2020.03.02-07.38.44:230][382]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2020.03.02-07.38.44:230][382]LogPlayLevel: PIE: World Init took: (0.000574s)
+[2020.03.02-07.38.44:230][382]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/BoyCharacter/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.007503s)
+[2020.03.02-07.38.44:260][382]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2020.03.02-07.38.44:266][382]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.02-07.38.44:281][382]LogInit: FAudioDevice initialized.
+[2020.03.02-07.38.44:288][382]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.02-07.38.44:317][382]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.03.02-07.38.44:319][382]LogWorld: Bringing World /Game/BoyCharacter/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2020.03.02-10.38.44
+[2020.03.02-07.38.44:319][382]LogWorld: Bringing up level for play took: 0.001362
+[2020.03.02-07.38.44:336][382]PIE: Play in editor start time for /Game/BoyCharacter/Maps/UEDPIE_0_2DSideScrollerExampleMap -0,272
+[2020.03.02-07.38.44:336][382]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.03.02-07.38.44:374][385]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.44:425][386]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.44:447][387]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.44:457][388]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.44:464][389]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.44:473][390]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.44:481][391]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.44:489][392]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.44:498][393]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.44:506][394]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.44:514][395]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.44:523][396]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.44:531][397]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.44:539][398]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.44:548][399]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.44:556][400]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.44:565][401]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.44:573][402]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.44:581][403]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.44:589][404]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.44:598][405]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.44:606][406]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.44:614][407]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.44:623][408]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.44:631][409]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.44:639][410]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.44:648][411]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.44:656][412]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.44:664][413]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.44:673][414]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.44:681][415]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.44:690][416]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.44:698][417]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.44:706][418]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.44:715][419]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.44:723][420]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.44:731][421]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.44:740][422]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.44:748][423]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.44:756][424]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.44:765][425]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.44:773][426]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.44:781][427]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.44:789][428]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.44:798][429]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.44:806][430]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.44:814][431]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.44:823][432]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.44:831][433]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.44:839][434]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.44:848][435]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.44:856][436]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.44:865][437]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.44:873][438]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.44:881][439]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.44:890][440]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.44:898][441]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.44:906][442]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.44:915][443]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.44:923][444]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.44:931][445]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.44:940][446]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.44:948][447]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.44:956][448]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.44:965][449]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.44:973][450]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.44:982][451]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.44:990][452]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.44:998][453]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.45:007][454]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.45:015][455]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.45:023][456]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.45:032][457]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.45:040][458]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.45:048][459]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.45:057][460]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.45:065][461]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.45:073][462]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.45:082][463]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.45:090][464]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.45:098][465]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.45:107][466]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.45:114][467]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.45:123][468]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.45:131][469]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.45:139][470]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.45:148][471]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.45:156][472]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.45:164][473]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.45:173][474]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.45:181][475]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.45:189][476]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.45:198][477]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.45:206][478]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.45:207][478]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.03.02-07.38.45:207][478]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.02-07.38.45:269][478]LogSlate: Window 'Sanya Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.02-07.38.45:329][478]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.02-07.38.45:330][478]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.03.02-07.38.45:407][478]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2020.03.02-07.38.45:424][479]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2020.03.02-07.38.47:772][759]BlueprintLog: New page: Compile BP_Light
+[2020.03.02-07.38.47:928][759]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2020.03.02-07.38.49:992][  3]BlueprintLog: New page: Compile BP_LightOnOff
+[2020.03.02-07.38.50:147][  3]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2020.03.02-07.38.51:356][145]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.03.02-07.38.51:466][145]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.03.02-07.38.51:466][145]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.02-07.38.51:466][145]PIE: New page: PIE session: 2DSideScrollerExampleMap (2 марта 2020 г., 13:38:51)
+[2020.03.02-07.38.51:467][145]LogPlayLevel: Creating play world package: /Game/BoyCharacter/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2020.03.02-07.38.51:487][145]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019678s)
+[2020.03.02-07.38.51:488][145]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2020.03.02-07.38.51:489][145]LogPlayLevel: PIE: World Init took: (0.001684s)
+[2020.03.02-07.38.51:489][145]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/BoyCharacter/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.021985s)
+[2020.03.02-07.38.51:549][145]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2020.03.02-07.38.51:555][145]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.02-07.38.51:569][145]LogInit: FAudioDevice initialized.
+[2020.03.02-07.38.51:574][145]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.02-07.38.51:601][145]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.03.02-07.38.51:604][145]LogWorld: Bringing World /Game/BoyCharacter/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2020.03.02-10.38.51
+[2020.03.02-07.38.51:605][145]LogWorld: Bringing up level for play took: 0.002399
+[2020.03.02-07.38.51:623][145]PIE: Play in editor start time for /Game/BoyCharacter/Maps/UEDPIE_0_2DSideScrollerExampleMap 1,015
+[2020.03.02-07.38.51:624][145]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.03.02-07.38.51:661][147]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.51:669][148]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.51:678][149]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.51:686][150]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.51:694][151]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.51:703][152]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.51:711][153]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.51:719][154]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.51:727][155]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.51:735][156]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.51:744][157]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.51:752][158]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.51:760][159]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.51:769][160]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.51:777][161]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.51:785][162]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.51:794][163]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.51:802][164]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.51:810][165]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.51:819][166]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.51:827][167]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.51:835][168]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.51:844][169]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.51:852][170]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.51:860][171]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.51:869][172]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.51:877][173]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.51:885][174]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.51:894][175]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.51:902][176]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.51:911][177]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.51:919][178]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.51:927][179]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.51:936][180]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.51:944][181]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.51:953][182]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.51:961][183]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.51:969][184]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.51:977][185]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.51:985][186]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.51:994][187]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:002][188]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:011][189]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:019][190]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:027][191]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:036][192]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:044][193]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:053][194]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:061][195]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:069][196]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:077][197]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:086][198]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:094][199]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:103][200]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:111][201]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:119][202]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:127][203]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:135][204]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:144][205]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:152][206]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:161][207]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:169][208]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:177][209]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:185][210]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:194][211]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:202][212]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:211][213]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:219][214]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:227][215]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:236][216]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:244][217]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:252][218]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:261][219]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:269][220]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:277][221]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:286][222]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:294][223]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:302][224]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:311][225]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:319][226]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:328][227]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:336][228]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:344][229]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:353][230]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:361][231]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:369][232]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:378][233]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:386][234]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:394][235]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:403][236]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:411][237]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:420][238]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:428][239]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:436][240]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:444][241]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:453][242]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:461][243]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:470][244]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:478][245]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:486][246]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:495][247]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:503][248]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:511][249]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:519][250]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:527][251]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:535][252]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:544][253]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:552][254]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:560][255]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:569][256]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:577][257]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:585][258]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:594][259]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:602][260]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:611][261]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:619][262]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:628][263]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:636][264]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:644][265]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:653][266]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:661][267]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:669][268]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:678][269]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:686][270]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:695][271]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:703][272]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:711][273]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:719][274]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:728][275]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:735][276]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:744][277]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:752][278]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:760][279]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:769][280]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:777][281]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:785][282]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:794][283]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:802][284]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:810][285]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:819][286]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:827][287]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:836][288]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:844][289]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:852][290]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:861][291]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:869][292]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:877][293]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:886][294]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:894][295]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:902][296]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:911][297]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:919][298]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:928][299]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:936][300]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:944][301]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:953][302]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:961][303]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:969][304]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:978][305]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:986][306]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.52:994][307]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.53:003][308]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.53:011][309]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.53:019][310]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.53:028][311]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.53:036][312]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.53:044][313]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.53:053][314]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.53:061][315]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.53:069][316]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.53:078][317]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.53:086][318]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.53:095][319]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.53:103][320]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.53:111][321]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.53:119][322]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.53:127][323]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.53:135][324]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.53:144][325]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.53:152][326]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.53:160][327]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.53:169][328]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.53:177][329]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.53:185][330]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.53:194][331]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.53:202][332]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.53:210][333]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.53:219][334]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.53:227][335]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.53:235][336]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.53:244][337]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.53:252][338]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.53:261][339]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.53:269][340]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.53:277][341]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.53:287][342]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.53:294][343]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.53:302][344]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.53:311][345]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.53:319][346]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.53:327][347]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.53:336][348]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.53:344][349]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.53:353][350]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.53:361][351]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.53:369][352]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.53:377][353]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.53:385][354]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.53:394][355]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.53:402][356]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.53:410][357]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.53:419][358]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.53:427][359]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.53:436][360]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.53:444][361]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.53:452][362]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.53:461][363]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.53:469][364]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.53:477][365]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.53:486][366]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.53:494][367]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.53:502][368]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.53:511][369]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.53:519][370]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.53:528][371]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.53:536][372]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.53:544][373]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.53:553][374]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.53:561][375]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.53:569][376]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.53:578][377]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.53:586][378]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.53:594][379]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.53:603][380]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.53:611][381]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.53:620][382]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.53:628][383]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.53:636][384]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.53:645][385]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.53:653][386]LogBlueprintUserMessages: [DogChar] сижу
+[2020.03.02-07.38.56:686][748]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.56:695][749]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.56:703][750]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.56:711][751]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.56:719][752]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.56:728][753]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.56:736][754]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.56:744][755]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.56:753][756]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.56:761][757]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.56:769][758]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.56:778][759]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.56:786][760]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.56:794][761]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.56:803][762]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.56:811][763]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.56:820][764]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.56:828][765]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.56:836][766]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.56:845][767]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.56:853][768]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.56:861][769]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.56:870][770]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.56:878][771]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.56:886][772]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.56:895][773]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.56:903][774]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.56:911][775]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.56:920][776]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.56:928][777]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.56:936][778]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.56:944][779]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.56:952][780]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.56:961][781]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.56:969][782]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.56:977][783]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.56:986][784]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.56:994][785]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:002][786]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:011][787]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:020][788]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:028][789]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:036][790]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:045][791]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:053][792]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:061][793]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:070][794]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:078][795]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:086][796]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:095][797]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:103][798]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:111][799]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:119][800]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:128][801]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:136][802]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:144][803]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:153][804]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:161][805]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:170][806]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:178][807]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:186][808]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:195][809]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:203][810]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:211][811]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:219][812]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:227][813]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:236][814]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:244][815]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:252][816]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:261][817]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:269][818]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:278][819]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:286][820]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:294][821]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:303][822]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:312][823]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:319][824]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:327][825]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:336][826]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:344][827]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:352][828]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:361][829]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:369][830]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:377][831]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:386][832]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:394][833]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:402][834]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:411][835]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:419][836]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:427][837]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:436][838]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:444][839]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:453][840]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:461][841]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:469][842]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:478][843]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:486][844]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:494][845]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:503][846]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:511][847]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:519][848]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:528][849]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:536][850]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:544][851]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:553][852]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:561][853]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:570][854]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:578][855]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:586][856]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:595][857]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:603][858]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:611][859]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:620][860]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:629][861]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:636][862]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:645][863]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:653][864]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:662][865]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:670][866]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:678][867]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:687][868]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:695][869]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:703][870]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:711][871]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:719][872]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:727][873]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:736][874]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:744][875]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:752][876]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:761][877]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:769][878]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:777][879]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:786][880]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:794][881]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:802][882]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:811][883]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:819][884]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:828][885]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:836][886]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:844][887]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:853][888]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:861][889]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:869][890]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:878][891]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:886][892]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:894][893]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:903][894]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:911][895]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:919][896]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:928][897]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:936][898]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:944][899]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:953][900]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:961][901]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:970][902]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:978][903]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:986][904]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.57:994][905]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.58:002][906]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.58:011][907]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.58:019][908]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.58:027][909]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.58:036][910]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.58:044][911]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.58:052][912]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.58:061][913]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.58:069][914]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.58:077][915]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.58:086][916]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.58:094][917]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.58:102][918]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.58:111][919]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.58:119][920]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.58:128][921]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.58:136][922]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.58:144][923]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.58:153][924]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.58:161][925]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.58:169][926]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.58:178][927]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.58:186][928]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.58:194][929]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.58:203][930]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.58:211][931]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.58:220][932]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.58:228][933]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.58:236][934]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.58:245][935]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.58:253][936]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.58:261][937]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.58:270][938]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.58:278][939]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.58:286][940]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.58:295][941]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.58:303][942]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.58:311][943]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.58:320][944]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.58:328][945]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.58:337][946]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.58:345][947]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.58:353][948]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.58:362][949]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.58:370][950]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.58:377][951]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.58:386][952]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.58:394][953]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.58:402][954]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.58:411][955]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.58:419][956]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.58:427][957]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.58:436][958]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.58:444][959]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.58:452][960]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.58:461][961]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.58:469][962]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.58:477][963]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.58:486][964]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.58:494][965]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.58:503][966]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.58:511][967]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.58:519][968]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.58:528][969]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.58:536][970]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.58:544][971]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.58:553][972]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.58:561][973]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.58:570][974]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.58:578][975]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.58:586][976]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.58:595][977]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.58:603][978]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.58:611][979]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.58:620][980]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.58:628][981]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.58:636][982]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.58:645][983]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.58:653][984]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.58:661][985]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.58:670][986]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.38.58:678][987]LogBlueprintUserMessages: [DogChar] валяюсь
+[2020.03.02-07.39.01:037][270]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.03.02-07.39.01:037][270]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.02-07.39.01:114][270]LogSlate: Window 'Sanya Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.02-07.39.01:175][270]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.02-07.39.01:175][270]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/BoyCharacter/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.03.02-07.39.01:271][270]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2020.03.02-07.39.01:287][271]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2020.03.02-07.39.20:426][567]LogHttp: Warning: 0000021E9D4D8E00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.03.02-07.39.20:426][567]LogHttp: Warning: 0000021E9D4D8E00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.03.02-07.39.20:427][567]LogHttp: Warning: 0000021E9D4D8E00: libcurl info message cache 1 (Closing connection 5)
+[2020.03.02-07.39.20:435][568]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCF2D2BAB-448E-F8EA-B8CF-42B0E6A00D0D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=388aa82440159cd02e6ac7be636c6856%7Ca29c5457ae9b4b4397a1fe5187b6c38c%7Cbceb8366-7753-4fa1-947c-d2077ecae7d6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.03.02-07.41.10:626][733]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.03.02-07.41.10:627][733]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.03.02-07.41.11:109][791]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.03.02-07.41.11:109][791]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.03.02-07.41.13:028][ 19]BlueprintLog: New page: Compile BP_Light
+[2020.03.02-07.41.13:187][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2020.03.02-07.41.20:478][888]LogHttp: Warning: 0000021E9C1F4400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.03.02-07.41.20:478][888]LogHttp: Warning: 0000021E9C1F4400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.03.02-07.41.20:478][888]LogHttp: Warning: 0000021E9C1F4400: libcurl info message cache 1 (Closing connection 6)
+[2020.03.02-07.41.20:478][888]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCF2D2BAB-448E-F8EA-B8CF-42B0E6A00D0D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=388aa82440159cd02e6ac7be636c6856%7Ca29c5457ae9b4b4397a1fe5187b6c38c%7Cbceb8366-7753-4fa1-947c-d2077ecae7d6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.03.02-07.42.42:536][613]BlueprintLog: New page: Compile BP_Light
+[2020.03.02-07.42.42:700][613]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2020.03.02-07.42.47:419][167]LogEditorTransaction: Undo Delete current selection
+[2020.03.02-07.42.47:534][179]LogUObjectArray: Warning: Other object in slot
+[2020.03.02-07.42.47:552][179]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.03.02-07.42.49:861][179]LogStats: FPlatformStackWalk::StackWalkAndDump -  2.308 s
+[2020.03.02-07.42.49:861][179]LogOutputDevice: Error: === Handled ensure: ===
+[2020.03.02-07.42.49:861][179]LogOutputDevice: Error: 
+[2020.03.02-07.42.49:861][179]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1156]
+[2020.03.02-07.42.49:861][179]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2020.03.02-07.42.49:861][179]LogOutputDevice: Error: Stack: 
+[2020.03.02-07.42.49:862][179]LogOutputDevice: Error: [Callstack] 0x00007ffac921c0c9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.02-07.42.49:862][179]LogOutputDevice: Error: [Callstack] 0x00007ffac8a96fee UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.02-07.42.49:862][179]LogOutputDevice: Error: [Callstack] 0x00007ffac8aa4e00 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.02-07.42.49:862][179]LogOutputDevice: Error: [Callstack] 0x00007ffac59f37f2 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2020.03.02-07.42.49:862][179]LogOutputDevice: Error: [Callstack] 0x00007ffac1525cfa UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.03.02-07.42.49:862][179]LogOutputDevice: Error: [Callstack] 0x00007ffac14e1e47 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.03.02-07.42.49:862][179]LogOutputDevice: Error: [Callstack] 0x00007ffac9f65984 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.02-07.42.49:862][179]LogOutputDevice: Error: [Callstack] 0x00007ffaca1515e3 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.02-07.42.49:862][179]LogOutputDevice: Error: [Callstack] 0x00007ffac9fad70b UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.02-07.42.49:862][179]LogOutputDevice: Error: [Callstack] 0x00007ffac9f8af5a UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.02-07.42.49:862][179]LogOutputDevice: Error: [Callstack] 0x00007ffac9f80287 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.02-07.42.49:862][179]LogOutputDevice: Error: [Callstack] 0x00007ffadd03b726 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.02-07.42.49:862][179]LogOutputDevice: Error: [Callstack] 0x00007ffadd02ef9f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.02-07.42.49:862][179]LogOutputDevice: Error: [Callstack] 0x00007ffadd03d77f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.02-07.42.49:863][179]LogOutputDevice: Error: [Callstack] 0x00007ffadd02c090 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.02-07.42.49:863][179]LogOutputDevice: Error: [Callstack] 0x00007ffafabe5b6d USER32.dll!UnknownFunction []
+[2020.03.02-07.42.49:863][179]LogOutputDevice: Error: [Callstack] 0x00007ffafabe5562 USER32.dll!UnknownFunction []
+[2020.03.02-07.42.49:863][179]LogOutputDevice: Error: [Callstack] 0x00007ffadd03e946 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.02-07.42.49:863][179]LogOutputDevice: Error: [Callstack] 0x00007ff796425d3e UE4Editor.exe!UnknownFunction []
+[2020.03.02-07.42.49:863][179]LogOutputDevice: Error: [Callstack] 0x00007ff79643554c UE4Editor.exe!UnknownFunction []
+[2020.03.02-07.42.49:863][179]LogOutputDevice: Error: [Callstack] 0x00007ff7964355ca UE4Editor.exe!UnknownFunction []
+[2020.03.02-07.42.49:863][179]LogOutputDevice: Error: [Callstack] 0x00007ff79644316c UE4Editor.exe!UnknownFunction []
+[2020.03.02-07.42.49:863][179]LogOutputDevice: Error: [Callstack] 0x00007ff796445b8e UE4Editor.exe!UnknownFunction []
+[2020.03.02-07.42.49:863][179]LogOutputDevice: Error: [Callstack] 0x00007ffafaa77bd4 KERNEL32.DLL!UnknownFunction []
+[2020.03.02-07.42.49:863][179]LogOutputDevice: Error: [Callstack] 0x00007ffafaeeced1 ntdll.dll!UnknownFunction []
+[2020.03.02-07.42.49:863][179]LogOutputDevice: Error: 
+[2020.03.02-07.42.49:916][179]LogStats:                SubmitErrorReport -  0.000 s
